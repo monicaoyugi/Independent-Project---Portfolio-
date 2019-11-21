@@ -1,0 +1,57 @@
+.header{
+    width: 100%;
+    top: 0;
+    bottom: 0;
+    background-color: aqua;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    justify-content: flex-end;
+
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+
+  li {
+      float: left;
+      }
+
+
+  .active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  .side{
+      grid-column: 20%;
+  }
+
+  .fab {
+    font-size: 1.5rem;
+    margin: 10px;
+    }
+
+
+    /*header*/
+
+    h1.header{
+     padding: 2%;
+    }
