@@ -1,7 +1,7 @@
 ## Portfolio
 This is my first Portfolio.
 
-Motivation
+###Motivation
 A short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
 
 Build status
@@ -21,6 +21,7 @@ Tech/framework used
 Ex. -
 
 Built with
+I have used HTML and CSS in buil
 
 Electron
 Features
@@ -38,17 +39,14 @@ Depending on the size of the project, if it is small and simple enough the refer
 Tests
 Describe and show how to run the tests with code examples.
 
-How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
+##How to use?
 
-Contribute
+##Contribute
 Let people know how they can contribute into your project. A contributing guideline will be a big plus.
 
-Credits
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project.
+##Credits
+Credits to Moringa LMS, W3school, code academy, medium, udemy among other online plartforms that i got to practise on making my portfolio. 
 
-Anything else that seems useful
-License
-A short snippet describing the license (MIT, Apache etc)
 
-MIT © Yourname
+#License
+MIT © 2019 Monica Oyugi
