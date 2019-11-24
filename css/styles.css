@@ -27,7 +27,7 @@ body{
     background-color: white;
 }
 .navigation h1{
-  font-family: 'Beth Ellen';font-size: 22px;
+  font-family: 'Beth Ellen';font-size: 28px;
   color: black;
 }
 .navigation{
@@ -43,13 +43,12 @@ body{
     background-color: white;
     height: 5%;
     text-align: right;
-    width: 70%;
+    width: 100%;
   }
   
   .navigation li {
     display: inline-block;
     margin: 2%;
-    
   }
 
   .navigation li a{
@@ -130,6 +129,17 @@ body{
 
 
 /*contacts*/
+.form{
+  background-color: white;
+  box-shadow: 0 0 3px 0 rgb(0, 0, 0.3);
+  display: flex;
+  width: 60%;
+  height: 40%;
+  font-size: 24px;
+  padding-top: 2%;
+  margin-bottom: -4%;
+  font-family: 'Yeon Sung', cursive;
+}
 
 /*footer*/
 .footer {
