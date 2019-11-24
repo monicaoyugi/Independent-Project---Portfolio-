@@ -137,8 +137,9 @@ body{
   height: 40%;
   font-size: 24px;
   padding-top: 2%;
-  margin-bottom: -4%;
+  margin: 2%;
   font-family: 'Yeon Sung', cursive;
+  padding-left: 2%;
 }
 
 /*footer*/
