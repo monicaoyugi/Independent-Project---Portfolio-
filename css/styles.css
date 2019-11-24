@@ -7,13 +7,13 @@ body{
   height: auto;
   background-attachment: fixed;
   scroll-behavior: smooth;
-  ani
 }
 
 .mycont{
   width: 100%;
-  display: table;
+  display:table;
 }
+
 .myimage{
   float: right;
   width: 40%;
@@ -21,15 +21,16 @@ body{
 }
 
 .header{
-    
     top: 0;
     bottom: 0;
     background-color: white;
 }
+
 .navigation h1{
   font-family: 'Beth Ellen';font-size: 28px;
   color: black;
 }
+
 .navigation{
   display: flex;
   justify-content: space-between;
@@ -63,11 +64,6 @@ body{
     color: white;
   }
 
-  /* li {
-      float: right;
-      } */
-
-
   .active {
     background-color: #4CAF50;
     color: white;
@@ -76,8 +72,6 @@ body{
   .side{
       grid-column: 20%;
   }
-
-  
 
 
     /*header*/
@@ -125,19 +119,9 @@ body{
 
     /*About*/
 
-    h3{
-    background: white;
-    box-shadow: 0px 2px 5px 4px grey;
-    margin-top: 2%;
-    display: block;
-    font-size: 1.17em;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    font-weight: bold;
-}
-    }
+
+  
+    
 /*Projects*/
 
 
@@ -157,6 +141,7 @@ body{
   margin: 2%;
   font-family: 'Yeon Sung', cursive;
   padding-left: 2%;
+  background-color: white;
 }
 
 /*footer*/
