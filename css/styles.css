@@ -1,11 +1,13 @@
 body{
-  background-image: url('../images/img2.jpg');
+  background-image: url('../images/bg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 1;
+  background-color: white;
+  opacity: 0.9;
   height: auto;
   background-attachment: fixed;
   scroll-behavior: smooth;
+  ani
 }
 
 .mycont{
@@ -31,7 +33,7 @@ body{
 .navigation{
   display: flex;
   justify-content: space-between;
-  background: red;
+  /* background: red; */
   width: 100%;
   top:0;
   overflow: hidden;
