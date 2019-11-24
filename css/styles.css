@@ -27,7 +27,7 @@ body{
 }
 
 .navigation h1{
-  font-family: 'Beth Ellen';font-size: 28px;
+  font-family: ''Yeon Sung', cursive;';font-size: 28px;
   color: black;
 }
 
@@ -123,8 +123,11 @@ body{
   
     
 /*Projects*/
-
-
+.pro{
+  display: flex;
+  flex-direction: row;
+  padding: 2%;
+}
 
 
 
