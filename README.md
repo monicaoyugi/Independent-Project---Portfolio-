@@ -1,7 +1,7 @@
 ## Portfolio
 This is my first Portfolio.
 
-###Motivation
+### Motivation
 A short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
 
 Build status
@@ -34,19 +34,20 @@ Installation
 Provide step by step series of examples and explanations about how to get a development env running.
 
 API Reference
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
+
 
 Tests
 Describe and show how to run the tests with code examples.
 
-##How to use?
+## How to use?
 
-##Contribute
+
+## Contribute
 Let people know how they can contribute into your project. A contributing guideline will be a big plus.
 
-##Credits
+## Credits
 Credits to Moringa LMS, W3school, code academy, medium, udemy among other online plartforms that i got to practise on making my portfolio. 
 
 
-#License
-MIT © 2019 Monica Oyugi
+# License
+* * MIT © 2019 Monica Oyugi
