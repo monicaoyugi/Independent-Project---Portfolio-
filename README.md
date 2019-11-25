@@ -5,7 +5,9 @@ This is my first Portfolio.
 This is a sample of my first portfilio.I thought to share detals about me, skills, contacts and few projects done. 
 
 
-Code style
+## Code style
+ * * HTML tags used
+p, h, ul, ol, li, em, strong, a, img, div, span
 
 
 ## * Screenshots
@@ -21,13 +23,7 @@ I have used HTML and CSS.
 ## Features
 This is a one-pager website,pages are linked from home page to contacts smooth scroll. 
 
-Code Example
 
-Show what the library does as concisely as possible, developers should be able to figure out how your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
-
-
-Tests
-Describe and show how to run the tests with code examples.
 
 ## How to use?
 
